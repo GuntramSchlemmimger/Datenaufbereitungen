@@ -1,2 +1,2 @@
-# Datenaufbeteitungen
-Eigene Aufbeteitungen oeffentlich zugaenglicher Daten
+# Datenaufbereitungen
+Eigene Aufbereitungen oeffentlich zugaenglicher Daten
